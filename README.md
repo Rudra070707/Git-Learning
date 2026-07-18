@@ -10,3 +10,8 @@ Author: Rudra Bandekar
 - GitHub Connected
 - SSH Configured
 - First Commit
+
+## Features
+
+- About Page
+- Contact Page
